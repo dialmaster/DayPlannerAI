@@ -1,0 +1,2 @@
+# DayPlannerAI
+An android application that can pull together data from various sources and then provide a natural language summary of what you have going on tomorrow, as well as some background information.
